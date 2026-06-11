@@ -31,7 +31,7 @@ Project-3-Randompassgenerator/
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/Secure-Password-Generator.git](https://github.com/YASHASHWIN22/Secure-Password-Generator.git)
+git clone https://github.com/YASHASHWIN22/Secure-Password-Generator.git
 ```
 
 2. Navigate to the project folder:
