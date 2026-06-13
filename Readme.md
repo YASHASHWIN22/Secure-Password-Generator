@@ -17,13 +17,15 @@ A Python-based Secure Password Generator that creates strong and random password
 - secrets module
 - string module
 
-## 📂 Project Structure
-
-```
-Project-3-Randompassgenerator/
+```text
+Project-3-RandomPassGenerator/
 │
+├── Screenshots/
+│   ├── successful_password_generation.png
+│   ├── invalid_input_handling.png
+│   └── length_validation.png
 ├── password_generator.py
-├── README.md
+└── README.md
 ```
 
 ## 🚀 How to Run
@@ -49,7 +51,7 @@ python password_generator.py
 
 ### Successful Password Generation
 
-![Successful Password Generation](Screenshots/Successful_password_generation.png)
+![Successful Password Generation](Screenshots/successful_password_generation.png)
 
 ### Invalid Input Handling
 
