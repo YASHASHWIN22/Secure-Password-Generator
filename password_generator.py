@@ -10,10 +10,11 @@ while True:
         length = int(input("Enter password length (minimum 8): "))
 
         if length < 8:
-            print("Password length should be at least 8.")
+            print("Password length should be at least 8 characters.")
             continue
 
         print("Generated Password:", generate_password(length))
+        print("Password generated successfully!")
         break
 
     except ValueError:
