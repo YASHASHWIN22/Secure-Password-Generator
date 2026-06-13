@@ -45,13 +45,19 @@ cd Secure-Password-Generator
 ```bash
 python password_generator.py
 ```
+## 📸 Screenshots
 
-## 💻 Sample Output
+### Successful Password Generation
 
-```
-Enter password length: 12
-Generated Password: A@7kP#9m$L2x
-```
+![Successful Password Generation](Screenshots/Successful_password_generation.png)
+
+### Invalid Input Handling
+
+![Invalid Input Handling](Screenshots/invalid_input_handling.png)
+
+### Password Length Validation
+
+![Password Length Validation](Screenshots/length_validation.png)
 
 ## 📖 Concepts Learned
 
